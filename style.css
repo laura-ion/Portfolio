@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+  
+}
+
+    
+    @font-face{
+         font-family: font ;
+         src: url("FunGroovy-1GB12.ttf");
+     }
+*{
+        font-family: font;
+}
+body{
+        background-color: #d3f5d0;
+}
